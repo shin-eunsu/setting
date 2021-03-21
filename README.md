@@ -1,2 +1,1 @@
-"# setting" 
-"# setting/redmine" 
+설정 저장용
